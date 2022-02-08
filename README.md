@@ -1,2 +1,2 @@
 # eurorack_cases
-CAD designs for eurorack cases
+Designs for eurorack cases
